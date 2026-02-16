@@ -2,7 +2,7 @@
 Designer, writer & human. Raised in Southeast Asia, based in the United States. 
 
 ### Getting started
-This is my work - design and writing. [aboutme](aboutme.md)
+This is my work - design and writing. [The longer story about me...](aboutme.md)
 
 ### Portfolio
 I straddle the lines of commercial and personal, data and human, technology and design. As a generalist designer, I consider almost every problem, a design problem 
