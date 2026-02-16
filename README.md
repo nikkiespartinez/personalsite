@@ -9,7 +9,7 @@
 }
   a {
   color: hotpink;
-  background-color: light gray;
+  background-color: #151515;
   border-radius: 25px;
   padding: 5px;
   font-weight: bold;
@@ -41,12 +41,12 @@ blockquote footer {
 # I am Nikki Espartinez
 Designer, writer & human. Raised in Southeast Asia, based in the United States. 
 
-## I. Getting started
+## Getting started
 I am currently working as a Senior User Experience Designer at a data analytics company called Verisk Analytics. I spend my day-to-day, operationally-speaking, solving technology-driven problems with fellow colleagues (eg software engineers, data scientists, PMs etc). All of whom I respect dearly. 
 
 Outside my day job, I write publicly via [my newsletter](https://nikkiespartinez.substack.com/). There is little-to-no difference between how I approach my design work and my writing work. I find immense fulfillment in both, especially the latter. [The longer story about me...](aboutme.md)
 
-### II. Portfolio
+### Portfolio
 I straddle the lines of commercial and personal, data and human, technology and design. As a generalist designer, I consider almost every problem, a design problem. Including, oddly enough, how I live my life. As a designer who has a hard time turning "this part of my brain off", there's no such thing as being off-duty. Currently, I am fond of this movement around "lifestyle design". Here's a shortlist of the best projects of my career so far: </summary>
 - An application that helps field representatives collect and gather data onsite
 - An application that identifies hazardous objects with a single image input
@@ -60,7 +60,7 @@ I straddle the lines of commercial and personal, data and human, technology and 
 > [!NOTE]
 > Wrote extensively about how I work on this post: https://nikkiespartinez.substack.com/p/76-how-i-work-early-musings, it's like a wiki for my workflow and mental model.
 
-#### III. How can I help?
+#### How can I help?
 > [!TIP]
 > I am most effective when I can deploy my core skills (writing/designing/research) and pour them into solving human-centered problems with competent people.
 
