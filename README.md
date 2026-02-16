@@ -1,3 +1,11 @@
+<style>
+  body {
+    font-family: sans-serif, "Source Sans Pro", "Helvetica", ui-sans-serif, system-ui;
+    line-height: 1.5;
+    color: hsl(224, 20%, 97%);
+    background-color: hsl(216, 28%, 7%);
+}
+</style>
 # I am Nikki Espartinez
 Designer, writer & human. Raised in Southeast Asia, based in the United States. 
 
