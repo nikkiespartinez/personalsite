@@ -10,7 +10,12 @@
     color: hsl(224, 20%, 97%);
     background-color: hsl(216, 28%, 7%);
 }
+  hr {
+    border: 0;
+    border-bottom: 1px solid yellow;
+}
 </style>
+
 # I am Nikki Espartinez
 Designer, writer & human. Raised in Southeast Asia, based in the United States. 
 
