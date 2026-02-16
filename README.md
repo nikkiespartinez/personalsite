@@ -7,6 +7,11 @@
     margin-block-start: 2em;
     overflow-wrap: anywhere;
 }
+  a {
+  color: hotpink;
+  background-color: yellow;
+  font-weight: bold;
+}
   body {
     font-family: sans-serif, "Source Sans Pro", "Helvetica", ui-sans-serif, system-ui;
     line-height: 1.5;
@@ -21,7 +26,7 @@
     border-inline-start: 1px solid red;
     padding: 0.75rem 1rem 0.75rem 1.25rem;
     border-radius: 0 0.5rem 0.5rem 0;
-    background-color: grey;
+    background-color: dark grey;
 }
 blockquote footer {
     margin-top: 0.5em;
