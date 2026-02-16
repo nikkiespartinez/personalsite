@@ -1,4 +1,9 @@
 <style>
+  h1, h2, h3, h4, h5, h6 {
+    color: pink;
+    margin-block-start: 2em;
+    overflow-wrap: anywhere;
+}
   body {
     font-family: sans-serif, "Source Sans Pro", "Helvetica", ui-sans-serif, system-ui;
     line-height: 1.5;
