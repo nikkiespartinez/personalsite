@@ -1,6 +1,9 @@
 <style>
-  h1, h2, h3, h4, h5, h6 {
+  h1 {
     color: pink;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
     margin-block-start: 2em;
     overflow-wrap: anywhere;
 }
@@ -12,7 +15,16 @@
 }
   hr {
     border: 0;
-    border-bottom: 1px solid yellow;
+    border-bottom: 1px solid gray;
+}
+  blockquote {
+    border-inline-start: 1px solid red;
+    padding: 0.75rem 1rem 0.75rem 1.25rem;
+    border-radius: 0 0.5rem 0.5rem 0;
+    background-color: grey;
+}
+blockquote footer {
+    margin-top: 0.5em;
 }
 </style>
 
