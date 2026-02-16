@@ -38,7 +38,7 @@ blockquote footer {
 }
 </style>
 
-# I am Nikki Espartinez
+# nikki espartinez
 Designer, writer & human. Raised in Southeast Asia, based in the United States. 
 
 ## Getting started
