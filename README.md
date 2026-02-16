@@ -18,7 +18,7 @@
   text-decoration: underline;
 }
   body {
-    font-family: sans-serif, "Inter", ui-sans-serif, system-ui;
+    font-family: sans-serif, "Lato", ui-sans-serif, system-ui;
     line-height: 1.5;
     color: hsl(224, 20%, 97%);
     background-color: hsl(216, 28%, 7%);
