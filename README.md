@@ -9,8 +9,9 @@
 }
   a {
   color: hotpink;
-  background-color: black;
+  background-color: light gray;
   border-radius: 25px;
+  padding: 5px;
   font-weight: bold;
 }
   a:hover {
