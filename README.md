@@ -9,8 +9,11 @@
 }
   a {
   color: hotpink;
-  background-color: yellow;
+  background-color: dark grey;
   font-weight: bold;
+}
+  a:hover {
+  text-decoration: underline;
 }
   body {
     font-family: sans-serif, "Source Sans Pro", "Helvetica", ui-sans-serif, system-ui;
